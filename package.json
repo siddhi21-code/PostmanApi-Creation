@@ -1,0 +1,24 @@
+{
+  "name": "postmanapi-creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhi21-code/PostmanApi-Creation.git"
+  },
+  "keywords": [],
+  "author": "siddhi",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/siddhi21-code/PostmanApi-Creation/issues"
+  },
+  "homepage": "https://github.com/siddhi21-code/PostmanApi-Creation#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
